@@ -45,3 +45,25 @@ void main()
   t++;
   printf("time complexicity=%d\n",t);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
